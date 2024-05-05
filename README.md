@@ -28,10 +28,6 @@ Este é um jogo simples de Batalha Naval implementado em C. O jogo simula uma ba
 ## Exemplo de Uso
 
 ```
-$ ./batalha_naval
-```
-
-```
       ____________________________________________________________________
      |                                                                    |
      |  ****************************************************************  |
@@ -72,6 +68,6 @@ Placar: 1
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-##Licença
+## Licença
 Este projeto está licenciado sob a MIT License.
 
